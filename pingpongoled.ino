@@ -1,3 +1,12 @@
+/*
+ * This is a game where you and a friend or someone else can control
+ * the bars, the first that go to 10 points is the winner.
+ * the speed of the ball will be increasing while playing, so you have
+ * to pay attention
+ * 
+ */
+
+
 
 #include "U8glib.h"
 U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NO_ACK);  // Display which does not send AC
